@@ -17,6 +17,8 @@ bootstrap
 open terminal {ctrl+Alt+T}
 git clone https://github.com/C0159412020/Akan Names.git
 cd Akan Names
+# live link
+https://github.com/C0159412020/Akan-Names/tree/master
 
 
 
