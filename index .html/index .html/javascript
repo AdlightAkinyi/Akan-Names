@@ -5,7 +5,10 @@ index .html<!DOCTYPE html>
   </head>
   <body>
       <style></style>
-    <form></form>
+    <form>
+    width=500px
+    fontsize=20px
+    color= white   
     Your name<br>
     <input type="text" name="your name"><br><br>
     Your <address></address><br>
