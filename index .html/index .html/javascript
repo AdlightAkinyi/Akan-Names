@@ -38,5 +38,7 @@ index .html<!DOCTYPE html>
 
     input type
     
+    cons.log=(((19/4-2*19-1)+5*89/4+26*(MM+1/10)+DD)mod7
+
   </body>
 </html>
