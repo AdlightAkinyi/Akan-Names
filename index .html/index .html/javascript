@@ -8,7 +8,12 @@ index .html<!DOCTYPE html>
     <form>
     width=500px
     fontsize=20px
-    color= white   
+    color= white 
+    {
+    <input [type=text]}
+    input [type=submit]{
+        width="100px"
+        fontsize="10px"}
     Your name<br>
     <input type="text" name="your name"><br><br>
     Your <address></address><br>
