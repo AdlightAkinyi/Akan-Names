@@ -14,13 +14,14 @@ adlightakinyi1@gmail.com
 Html
 css
 javascript 
-bootstrap
+
 # Installation /set up instructions
 open terminal {ctrl+Alt+T}
-git clone https://github.com/C0159412020/Akan Names.git
+git clone https://github.com/C0159412020/Akan Names/tree/master
 cd Akan Names
 # live link
 https://github.com/C0159412020/Akan-Names/tree/master
 # BDD
+gender -female selected 
 
 
