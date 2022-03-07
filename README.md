@@ -1,5 +1,7 @@
 # Title
 Akhan names 
+# Author
+Adlight Akinyi
 # description
 
 This project is a web application that takes a use's birthday and calculates the day of the week they were born and depending on their gender outputs  their AKhan  Name
@@ -19,6 +21,6 @@ git clone https://github.com/C0159412020/Akan Names.git
 cd Akan Names
 # live link
 https://github.com/C0159412020/Akan-Names/tree/master
-
+# BDD
 
 
