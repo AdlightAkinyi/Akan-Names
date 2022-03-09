@@ -22,6 +22,6 @@ cd Akan Names
 # live link
 https://github.com/C0159412020/Akan-Names/tree/master
 # BDD
-gender -female selected 
+gender -
 
 

@@ -1,44 +1,77 @@
 index .html<!DOCTYPE html>
 <html>
   <head>
-    <title> project of Akhan Names with date of birth </title>
+    <title>Akan name </title>
   </head>
   <body>
+    <h2>radio button</h2>
+    <p> choose your favorite gender</p>
       <style></style>
     <form>
-    width=500px
-    fontsize=20px
-    color= white 
-    {
-    <input [type=text]}
-    input [type=submit]{
-        width="100px"
-        fontsize="10px"}
-    Your name<br>
-    <input type="text" name="your name"><br><br>
-    Your <address></address><br>
-    <input type="text"name="address"><br><br>
-    Yuor date of birth<br>
-    <select name="month"
-    option value="month">month</option>
-    option value="january">january</option>
-    option value="february">february</option>
-    </select>
-  <select name>="days"
-    <option value="days">days</option>
-    <option value="1">1</option>
-    <optionvalue="2">2</optionvalue>
-  </select>
-  <select name="year">
-    option value="1989">1989</option>
-    <option value="1985">1985</option>
-  </select>
-  input type="submit"I value="submit.">
-
-
-    input type
     
-    console.log=(((19/4-2*19-1)+5*89/4+26*(MM+1/10)+DD)mod7
-<console .log="answer"
- < body>
+      <input type="radio" id="female" name="fav_gender" value="female">
+        <label for="female">female</label><br>
+        <input type="radio" id="male" name="fav_gender" value="male">
+        <label for="male">male</label><br>
+      <input type="submit" value="Submit">
+      <p>select day </p>
+      <style></style>
+    </form>
+    const d = {new Date();
+d.getTime();
+    }
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>JavaScript getTime()</h2>
+<p>The internal clock in JavaScript counts from midnight January 1, 1970.</p>
+<p>The getTime() function returns the number of milliseconds since then:</p>
+
+<p id="demo date"></p>
+
+<script>
+const d = new Date();
+document.getElementById("demo date").innerHTML = d.getTime();
+</script>
+const days = ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"];
+
+const d = new Date();
+let day = days[d.getDay()];
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>JavaScript getDay()</h2>
+<p>The getDay() method returns the weekday as a number.</p>
+<p>You can use an array to display the name of the weekday:</p>
+
+<p id="demo"></p>
+
+<script>
+const days = ["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"];
+
+const d = new Date();
+let day = days[d.getDay()];
+document.getElementById("demo").innerHTML = day;
+</script>
+
+</body>
+</html>
+
+
+</body>
+</html>
+
+</html>
+
+    
+
+  </body>
+  </html>
+    
+        
+
+
+    </body> body>
 </html>

@@ -1,44 +1,23 @@
 index .html<!DOCTYPE html>
 <html>
   <head>
-    <title> project of Akhan Names with date of birth </title>
+    <title> </title>
   </head>
   <body>
+
       <style></style>
     <form>
-    width=500px
-    fontsize=20px
-    color= white 
-    {
-    <input [type=text]}
-    input [type=submit]{
-        width="100px"
-        fontsize="10px"}
-    Your name<br>
-    <input type="text" name="your name"><br><br>
-    Your <address></address><br>
-    <input type="text"name="address"><br><br>
-    Yuor date of birth<br>
-    <select name="month"
-    option value="month">month</option>
-    option value="january">january</option>
-    option value="february">february</option>
-    </select>
-  <select name>="days"
-    <option value="days">days</option>
-    <option value="1">1</option>
-    <optionvalue="2">2</optionvalue>
-  </select>
-  <select name="year">
-    option value="1989">1989</option>
-    <option value="1985">1985</option>
-  </select>
-  input type="submit"I value="submit.">
+      <form action="/>
+        <label for="female">First name:</
+        <input type="text" id="female" name="fav_gender" value="female"><br>
+        <label for="male">:</label><br>
+        <input type="text" id="male" name="" value="
+        <input type="submit" value="Submit">
+      </form>
 
-
-    input type
     
-    cons.log=(((19/4-2*19-1)+5*89/4+26*(MM+1/10)+DD)mod7
+    
+
 
   </body>
 </html>
