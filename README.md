@@ -12,18 +12,21 @@ mit licence
 adlightakinyi1@gmail.com
 # Technologies used
 Html
+
 css
 javascript 
 
 
 # Installation /set up instructions
 open terminal {ctrl+Alt+T}
-git clone 
+#git clone 
 
-cd Akan Nameshttps://github.com/C0159412020/Akan-Namepagess/branches/all?query=gh-
+cd Akan Names
+https://github.com/C0159412020/Akan-Namall?query=gh-pageses/branches/
+
 # live link
 
-https://github.com/C0159412020/Akan-Names/branches/all?query=gh-pages
+https://github.com/C0159412020/Akan-Namall?query=gh-pageses/branches/
 # BDD
 
 gender -selected female
