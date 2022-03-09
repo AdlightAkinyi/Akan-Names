@@ -24,9 +24,8 @@ open terminal {ctrl+Alt+T}
 cd Akan Names
 https://github.com/C0159412020/Akan-Namall?query=gh-pageses/branches/
 
-# live link
-
-https://github.com/C0159412020/Akan-Namall?query=gh-pageses/branches/
+# livelink
+ https://c0159412020.github.io/Akan-Names/
 # BDD
 
 gender -selected female
