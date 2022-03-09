@@ -15,11 +15,13 @@ Html
 css
 javascript 
 
+
 # Installation /set up instructions
 open terminal {ctrl+Alt+T}
 git clone https://github.com/C0159412020/Akan Names/tree/master
 cd Akan Names
 # live link
+
 https://github.com/C0159412020/Akan-Names/branches/all?query=gh-pages
 # BDD
 
