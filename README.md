@@ -20,7 +20,7 @@ javascript
 open terminal {ctrl+Alt+T}
 git clone 
 
-cd Akan Nameshttps://github.com/C0159412020/Akan-Names/branches/all?query=gh-pages
+cd Akan Nameshttps://github.com/C0159412020/Akan-Namepagess/branches/all?query=gh-
 # live link
 
 https://github.com/C0159412020/Akan-Names/branches/all?query=gh-pages
