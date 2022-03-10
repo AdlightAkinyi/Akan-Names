@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Akan name </title>
+  </head>
+  <body>
+    <h2>Akan names</h2>
+    <p>Akan names come from a traditional naming system for people from countries such as Togo, Ivory Coast and Ghana. A child’s name is determined by factors surrounding his or her birth. For example, the day of their birth or the manner in which they were born may determine which name they get irrespective of their gender. These Akan names signify the day one is born. According to Akan tradition, each child is born with a name associated to their soul. The day the child is born is therefore determined by the soul. The well thought and organized naming system of the Akan’s was initiated by the ancestors and has attracted so many people’s attention as they desire to know more about these names. As a matter of fact, it is possible to tell what led to someone’s birth, the day they were born and their rank among the siblings just by their names. This is why you need to read this article to know more about Akan names and their meanings. Read more: https://yen.com.gh/115080-akan-names-meanings.html</p>
+    
+    <form id="project">
+
+      
+      <p id="newday"><get day><p></p>
+      
+      <input type="date" id="dob">
+      <select name="gender" id="gender">
+        <option selected value="male">male
+        </option>
+        <option value="female">female</option>
+      </select>
+  <button type="submit">get Akan name</button>
+    </form>
+  <p id="display"></p>   
+      
+
+
+
+<script>
+const male= ["Kwasu","Kwadoa","kwabena","kwaku","Yaw","Kofi","Kwame"];
+const female=["Akosua","Adwoa","Abenaa","Akua","Yaa","Afua","Ama"];
+document.getElementById("project").addEventListener("submit",(e)=>{
+e.preventDefault() 
+
+const date=document.getElementById("dob").value
+  const d = new Date(date);
+let display =document.getElementById("display")
+let gender=document.getElementById("gender").value
+if(gender==="male"){
+
+console.log(male[d.getDay()])
+display.textContent=male[d.getDay()]
+
+}
+
+if(gender==="female"){
+
+  console.log(female[d.getDay()])
+  display.textContent=female[d.getDay()]
+  
+}
+
+
+
+
+
+
+
+})
+
+</script></body>
+</html>
+
+
+      
