@@ -19,13 +19,12 @@ javascript
 
 # Installation /set up instructions
 open terminal {ctrl+Alt+T}
-#git clone 
-
-cd Akan Names
-https://github.com/C0159412020/Akan-Namall?query=gh-pageses/branches/
+`git clone https://github.com/C0159412020/Akan-Names.git`
+ 
 
 # livelink
- https://c0159412020.github.io/Akan-Names/
+ 
+- Live Site URL: [Akan-Name-Generator](https://c0159412020.github.io/Akan-Names/)
 # BDD
 
 gender -selected female
